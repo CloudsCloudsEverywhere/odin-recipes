@@ -1,1 +1,2 @@
 My goal is to create an HTML site to better understand HTML.
+Actually, I think this was mostly about how to use Github and commits. The HTML format wasn't an issues, but I learned how  to commit and push from VSC and trouble shoot errors that can come up along the way. 
